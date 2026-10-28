@@ -17,9 +17,11 @@ Use this sequence to keep your explanation clear and logical:
 
 **8. Gold - Business Data:** What business metrics did you calculate?
 
-**9. Orchestration and Monitoring:** How did you schedule, monitor, troubleshoot pipelines and handle failures?
+**9. Consumption - Power BI:** How did users access the data?
 
-**10. Contributions and results:** What did you personally build, and what measurable improvements did it deliver?
+**10. Orchestration and Monitoring:** How did you schedule, monitor, troubleshoot pipelines and handle failures?
+
+**11. Contributions and results:** What did you personally build, and what measurable improvements did it deliver?
 
 ---
 
